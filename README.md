@@ -1,4 +1,4 @@
 # express-prj1
 express project created by webstorm
 
-#just a prictise
+just a prictise
